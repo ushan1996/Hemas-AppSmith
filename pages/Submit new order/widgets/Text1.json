@@ -18,11 +18,7 @@
     "parentColumnSpace": 19.8125,
     "dynamicTriggerPathList": [],
     "leftColumn": 15,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Fill out below details to add a new maintenance request",
